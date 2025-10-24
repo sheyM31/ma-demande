@@ -1,0 +1,36 @@
+body{
+    background-image: url("pexels-michelle-leman-6765968.jpg");
+    background-size: cover;
+}
+.button {
+    position: absolute;
+    left :30%
+}
+.but button{
+    position: absolute;
+    left:40%;
+    bottom: 40%;
+    width: 240px;
+    height: 120px;
+    border-radius: 120px;
+    background-color: pink;
+    font-size: large;
+}
+.button{
+    list-style: none;
+    
+}
+.body{
+    background:url('pexels-karola-g-5713712.jpg');
+    background-size: cover;
+}
+.cond{
+    position: absolute;
+    left: 40%;
+    bottom: 50%;
+}
+.cond img{
+    width: 300px;
+    position: absolute;
+    bottom:200%;
+}
